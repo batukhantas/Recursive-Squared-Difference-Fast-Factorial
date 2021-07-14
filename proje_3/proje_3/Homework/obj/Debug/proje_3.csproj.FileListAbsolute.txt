@@ -1,0 +1,19 @@
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\proje_3.csproj.AssemblyReference.cache
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\Homework.Form1.resources
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\proje_3.csproj.GenerateResource.cache
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\proje_3.csproj.CoreCompileInputs.cache
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\İlhami Enes Aydos\Source\Repos\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\bin\Debug\Homework.exe.config
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\bin\Debug\Homework.exe
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\bin\Debug\Homework.pdb
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\proje_3.csprojAssemblyReference.cache
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\Homework.Form1.resources
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\proje_3.csproj.GenerateResource.cache
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\Homework.exe
+C:\Users\TAS\Desktop\proje_3\proje_3\Homework\obj\Debug\Homework.pdb
